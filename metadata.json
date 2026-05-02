@@ -1,0 +1,7 @@
+{
+  "name": "SatyaCheck - AI Fact Checker",
+  "description": "An intelligent, multilingual platform to detect deepfakes, identify AI-generated media, and verify the authenticity of news using Google Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
